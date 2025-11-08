@@ -35,8 +35,3 @@ This repository showcases a collection of Android mobile applications developed.
 - **Language:** Java
 - **Platform:** Android Studio
 - **Key APIs:** GPS/Location Services, Canvas, Fragment API, View/ViewGroup
-
-***
-*This repository reflects hands-on experience building interactive Android applications and understanding core mobile development principles.*
-
-[1](https://github.com/mahatigorthy)
